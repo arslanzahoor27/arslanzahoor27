@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9D4EDD,100:00D4FF&height=210&section=header&text=Arslan%20Zahoor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=BS%20AI%20%C2%B7%20Semester%203%20%C2%B7%20Python%20%2B%20ML&descAlignY=52&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9D4EDD,100:00D4FF&height=210&section=header&text=Arslan%20Zahoor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Python%20%2B%20Models&descAlignY=52&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Arslan+%F0%9F%91%8B;3rd+Semester+BS+AI+Student+%F0%9F%A7%A0;Python+%2B+ML+%3D+my+whole+personality;Currently%3A+debugging+at+2am+%F0%9F%94%A5;Send+help+or+send+snacks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Arslan+%F0%9F%91%8B;AI+%2F+ML+Engineer+%F0%9F%A7%A0;Python+%2B+ML+%3D+my+whole+personality;Currently%3A+training+models%2C+breaking+things;Send+help+or+send+snacks" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="260" />
 
@@ -10,20 +10,19 @@
 
 <br>
 
-## 👋 the rundown
+## 👋 The Rundown
 
-not claiming to be some senior dev — just a **3rd semester AI student** who spends more time in Jupyter notebooks than anywhere else 🧑‍💻
+**AI/ML engineer** who lives in Jupyter notebooks and thinks in tensors 🧑‍💻
 
 ```python
 class Arslan:
     def __init__(self):
-        self.degree   = "BS Artificial Intelligence"
-        self.semester = 3
-        self.stack    = ["Python", "ML", "curiosity", "chaos"]
-        self.mood     = "training models, breaking things, learning anyway"
+        self.role  = "AI / ML Engineer"
+        self.stack = ["Python", "ML", "curiosity", "chaos"]
+        self.mood  = "training models, breaking things, shipping anyway"
 
     def currently(self):
-        return "turning lecture theory into stuff that actually runs 🚀"
+        return "turning ideas into working AI systems 🚀"
 ```
 
 <br>
@@ -38,9 +37,9 @@ class Arslan:
 
 ### 🎯 quick facts
 
-- 🎓 BS Artificial Intelligence · Semester 3
-- 🧪 Learning ML by breaking things first, understanding later
-- 🌱 Big into Python + AI, still exploring the rest
+- 🤖 Building with **Python, ML, and applied AI**
+- 🧪 Learning models by breaking them first, understanding later
+- 🌱 Always digging into what's next in AI
 - 👀 Always down to collab on something dumb but fun
 
 <br>
