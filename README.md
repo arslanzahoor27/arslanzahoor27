@@ -57,11 +57,12 @@ class Arslan:
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| 🏦 **[Credit Scoring Model](https://github.com/arslanzahoor27/CodeAlpha_Credit-Scoring-Model)** | Machine Learning model trained on real-world financial data to predict loan approval with an interactive Streamlit web application. | Python · Scikit-learn · Streamlit |
-| ✍️ **[Handwritten Character Recognition](https://github.com/arslanzahoor27/Handwritten-Character-Recognition)** | CNN-based handwritten digit recognition system built using TensorFlow with an intuitive Streamlit interface. | TensorFlow · CNN · Streamlit |
-| 🤖 **[Rule-Based Chatbot](https://github.com/arslanzahoor27/rule-based-chatbot)** | A scalable rule-based chatbot built using efficient HashMap architecture for deterministic responses. | Python |
-| 📊 **[Data Classification using AI](https://github.com/arslanzahoor27/data-classification-using-ai)** | End-to-end supervised machine learning pipeline covering preprocessing, feature engineering, model training and evaluation. | Python · Scikit-learn |
-| 🗳️ **[Voting System Project](https://github.com/arslanzahoor27/Voting_System_Project)** | GUI-based virtual voting system implementing authentication, vote management and result generation. | C++ |
+| **[AI Career Recommendation System](https://github.com/<arslanzahoor27>/<AI-Career-Recommender>)** | Content-based career recommender that matches your skills to tech roles using TF-IDF and cosine similarity, with a LinkedIn-style skill search, ranked skill-gap analysis, and exportable PDF reports. | Python · Scikit-learn · Streamlit · ReportLab |
+| **[Credit Scoring Model](https://github.com/arslanzahoor27/CodeAlpha_Credit-Scoring-Model)** | Machine Learning model trained on real-world financial data to predict loan approval with an interactive Streamlit web application. | Python · Scikit-learn · Streamlit |
+| **[Handwritten Character Recognition](https://github.com/arslanzahoor27/Handwritten-Character-Recognition)** | CNN-based handwritten digit recognition system built using TensorFlow with an intuitive Streamlit interface. | TensorFlow · CNN · Streamlit |
+| **[Rule-Based Chatbot](https://github.com/arslanzahoor27/rule-based-chatbot)** | A scalable rule-based chatbot built using efficient HashMap architecture for deterministic responses. | Python |
+| **[Data Classification using AI](https://github.com/arslanzahoor27/data-classification-using-ai)** | End-to-end supervised machine learning pipeline covering preprocessing, feature engineering, model training and evaluation. | Python · Scikit-learn |
+| **[Voting System Project](https://github.com/arslanzahoor27/Voting_System_Project)** | GUI-based virtual voting system implementing authentication, vote management and result generation. | C++ |
 <br>
 
 ### 🏆 trophy case
